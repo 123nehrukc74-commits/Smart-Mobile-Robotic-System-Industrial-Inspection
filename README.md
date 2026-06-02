@@ -40,6 +40,21 @@ This project is an IoT-based smart mobile robotic system designed for industrial
 * Safety Surveillance
 * Remote Inspection Systems
 
+## Project Images
+
+### Prototype Model
+![Prototype](Project_Photo.jpg)
+
+### Block Diagram
+![Block Diagram](Block_Diagram.png)
+
+### Circuit Diagram
+![Circuit Diagram](Circuit_Diagram.png)
+
+## Project Report
+
+Refer to the uploaded PDF report for complete project details.  
+
 ## Author
 
 K.C. Nehru
