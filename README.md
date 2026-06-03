@@ -51,6 +51,9 @@ This project is an IoT-based smart mobile robotic system designed for industrial
 ### Block Diagram
 ![Block Diagram](Block%20Diagram.png)
 
+### Block Diagram
+![Block Diagram](Block%20Diagram.png)
+
 ## Project Report
 
 Refer to the uploaded PDF report for complete project details.  
